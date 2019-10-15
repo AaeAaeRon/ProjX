@@ -1,24 +1,5 @@
-# README
+This web app is a rendition of Slack. Here you can create an account and make posts to update a team on upcoming projects. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The frontend was built using Ruby on Rails in MVC format, HTML and CSS/Bootstrap and backend was built using Ruby on Rails. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+For a video walk demo visit https://youtu.be/1VKG99bcJ_g
